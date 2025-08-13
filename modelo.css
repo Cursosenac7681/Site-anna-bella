@@ -119,10 +119,12 @@ a {
     border-bottom: 5px solid slategrey;
     border-right: 5px solid slategray;
     border-radius: 2%;
+    margin-rigth: 90px;
 }
 
 .form1 {
     border: 2px, solid, black;
     margin-bottom: 20px;
     border-radius: 2%;
+
 }
