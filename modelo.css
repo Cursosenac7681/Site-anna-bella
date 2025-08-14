@@ -102,14 +102,16 @@ a {
 
 .se1 {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     margin-right: 75px;
+    margin-left: 150px;
 }
 
 .se3 {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     margin-right: 75px;
+    margin-left: 150px;
 }
 
 .img {
@@ -128,5 +130,6 @@ a {
     border-radius: 2%;
 
 }
+
 
 
