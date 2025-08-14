@@ -109,6 +109,7 @@ a {
 .se3 {
     display: flex;
     justify-content: space-evenly;
+    margin-right: 75px;
 }
 
 .img {
@@ -127,4 +128,5 @@ a {
     border-radius: 2%;
 
 }
+
 
