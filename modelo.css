@@ -1,5 +1,5 @@
 body {
-    background-image: url(../Imagens/fundo.png);
+    background-image: url(imagens/fundo.png);
 }
 
 .principal {
@@ -130,6 +130,7 @@ a {
     border-radius: 2%;
 
 }
+
 
 
 
